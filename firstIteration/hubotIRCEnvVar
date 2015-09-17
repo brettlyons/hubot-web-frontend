@@ -1,0 +1,6 @@
+#!/bin/sh
+HUBOT_IRC_SERVER=irc.freenode.net \
+HUBOT_IRC_ROOMS="#borkless" \
+HUBOT_IRC_NICK="Angine" \
+HUBOT_IRC_UNFLOOD="true" \
+bin/hubot -a irc
