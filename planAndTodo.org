@@ -1,0 +1,10 @@
+* Hubot plan
+
+** Front End
+   This will be for configuring some of the features, getting stats, etc.
+   so buttons and control panel design will be defined by much of the back end.
+** Back End
+   This will be mostly hubot code written by others, 
+    although I might need to write custom code to hook onto the front end stuff.
+** Persistence
+   The database layer is the "optional" layer.  
