@@ -8,3 +8,5 @@
     although I might need to write custom code to hook onto the front end stuff.
 ** Persistence
    The database layer is the "optional" layer.  
+    It may be essential for some plugins that I would like to use, but it is the
+    "if you have time" feature.
